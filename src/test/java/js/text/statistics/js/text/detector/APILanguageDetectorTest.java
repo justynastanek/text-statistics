@@ -6,7 +6,7 @@ public class APILanguageDetectorTest {
 
     @Test
     public void detect(){
-        APIlanguageDetector api = new APIlanguageDetector("e337d6cffacd9559694a59fb131b7fec");
+        APIlanguageDetector api = new APIlanguageDetector("75f60058f46324837e576ecd46d525e3");
 
     }
 
